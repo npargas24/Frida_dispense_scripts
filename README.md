@@ -1,6 +1,6 @@
 # Frida_dispense_scripts
 
-This repository contains primary Frida scripts used in the reverse engineering of the Rouge Sur Mesure app. 
+This repository contains primary Frida scripts used in the reverse engineering of the Rouge Sur Mesure app and device. 
 
 `hook_send_inspect` monitors data sent by the app over bluetooth.  
 `fuller_dump` provides detailed information on key functions.  
