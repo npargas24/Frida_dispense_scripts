@@ -1,4 +1,4 @@
-# Rouge Sur Mesure frida scripts
+# Rouge Sur Mesure Frida Scripts
 
 This repository contains primary Frida scripts used in the reverse engineering of the Rouge Sur Mesure app and device. 
 
